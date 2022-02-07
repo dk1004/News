@@ -1,0 +1,47 @@
+h1{
+    background-color:black;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: bold;
+    padding-left: 1px;
+    padding-left: 20px;
+}
+a{
+   color:black; 
+}
+a:hover{
+    color:grey;
+}
+.search-button{
+    border-radius: 7;
+    background-color: grey;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-primary{
+    color: #fff;
+    background-color: grey;
+    border-color: white;
+    margin: 1;
+}
+.btn-primary:focus{
+    background-color: black;
+    border-color: white;
+    outline:none;
+    box-shadow: none;
+    
+}
+.btn-primary:hover{
+    background-color: black;
+    border-color: white;
+}
+nav{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+form{
+    margin-left: 20px;
+}
